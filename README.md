@@ -9,7 +9,19 @@
 
 <h2>Projects:</h2>
 
-<h3>Project 1: Airbnb Data Analysis using Tableau</h3>
+<h3>Project 1: Power BI Project - Data Professional Survey </h3>
+
+<p>In this Power BI project, I successfully transformed raw survey data using Power Query to prepare it for analysis and visualization. The project included:</p>
+
+<ul>
+  <li>Developing interactive and informative visualizations, including charts for average age, average salary, and happiness ratings, using Microsoft Power BI.</li>
+  <li>Demonstrating proficiency in data cleaning, visualization creation, and dashboard design in a real-world data analysis context.</li>
+  <li>Highlighting the ability to work with survey data, draw insights, and present findings effectively.</li>
+  <li>Showcasing strong attention to detail by improving the aesthetics and usability of the final dashboard.</li>
+  <li>Applying knowledge of Power BI to create a visually appealing and informative data presentation.</li>
+</ul>
+
+<h3>Project 2: Airbnb Data Analysis using Tableau</h3>
 
 <p>In this project, I tackled an Airbnb dataset from 2016, aiming to provide actionable insights through visualizations using Tableau. The project covered:</p>
 
@@ -20,7 +32,7 @@
   <li>Creating interactive dashboards for intuitive data exploration.</li>
 </ul>
 
-<h3>Project 2: Bike Sales Excel Dashboard</h3>
+<h3>Project 3: Bike Sales Excel Dashboard</h3>
 
 <p>Developed a comprehensive Excel project showcasing data analysis skills:</p>
 
